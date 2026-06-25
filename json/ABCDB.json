@@ -1,0 +1,12 @@
+{
+  "dbName": "ABCDB",
+  "dbUniqueName": "ABCDB",
+  "dbSID": "ABCDB",
+  "dbCharset": "AL32UTF8",
+  "dbNCharset": "AL16UTF16",
+  "datafileDestination": "+DATAC4",
+  "fraDestination": "+RECOC4",
+  "nodeList": "factakvclu-tff4r2,factakvclu-tff4r3",
+  "tdeConfigMethod": "FILE",
+  "waitForCompletion": "false"
+}
