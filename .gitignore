@@ -1,0 +1,10 @@
+logs/*
+!logs/.gitkeep
+*.log
+*.tmp
+*.tar
+*.zip
+*.bak
+.DS_Store
+.env
+*.swp
