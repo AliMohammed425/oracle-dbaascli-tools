@@ -1,4 +1,4 @@
-# ODAA DBaaSCLI Tools
+# DBaaSCLI Tools
 
 **Author:** Mohammed Ali  
 **Company:** Aqil Information Technology LLC  
@@ -7,7 +7,7 @@
 
 ## Purpose
 
-ODAA DBaaSCLI Tools automate Oracle database migration and Data Guard operations using `dbaascli`.
+ DBaaSCLI Tools automate Oracle database migration and Data Guard operations using `dbaascli`.
 
 Main use cases:
 
